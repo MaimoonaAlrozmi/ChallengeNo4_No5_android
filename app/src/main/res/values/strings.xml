@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ChallengeNo4_No5_android</string>
+    <string name="question_text">True</string>
+    <string name="q1">Sanaa in Yemen</string>
+    <string name="q2">you Are smart</string>
+    <string name="q3">www means world wide web</string>
+    <string name="q4">Android is application</string>
+    <string name="q5">google is a browser</string>
+    <string name="q6">Kotlin is easy language</string>
+
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Your answer is Correct  ^_^ </string>
+    <string name="incorrect_toast">Your answer is Incorrect ^~^</string>
+    <string name="next_button">Next</string>
+    <string name="DescriptionImgBtnB">Arrow Back</string>
+    <string name="DescriptionImgBtnF">Arrow forward</string>
+</resources>
